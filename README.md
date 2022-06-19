@@ -28,6 +28,7 @@ I'm living in San Francisco Bay Area, CA
 ## More about me....
  
 - 💻    I'm Shuhan GENG.
+- 👯    I’m looking to collaborate on ...
 - 🌱    This is my <a href="https://scratch.mit.edu/users/shaepa/">Scratch Space</a> 
 - 📧    Email me at <a href="everestshg@gmail.com" target="_blank">everestshg@gmail.com</a>
  
