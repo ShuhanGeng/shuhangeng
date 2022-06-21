@@ -47,3 +47,7 @@ I'm living in San Francisco Bay Area, CA
 
  - 4>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/IJotMrsKn).
  - 4>    [Show: Can you Draw on the Hard mode?](https://editor.p5js.org/shuhangeng/full/IJotMrsKn).
+
+
+ - 5>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/JhoCbZRLh).
+ - 5>    [Show: Can you Draw on the Hard mode?](https://editor.p5js.org/shuhangeng/full/JhoCbZRLh).
