@@ -43,3 +43,7 @@ I'm living in San Francisco Bay Area, CA
     
  - 3>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/QKRGN7vH9).
  - 3>    [Show: A square and circle](https://editor.p5js.org/shuhangeng/full/QKRGN7vH9).
+ 
+
+ - 4>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/IJotMrsKn).
+ - 4>    [Show: Can you Draw on the Hard mode?](https://editor.p5js.org/shuhangeng/full/IJotMrsKn).
