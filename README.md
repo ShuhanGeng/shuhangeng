@@ -51,3 +51,11 @@ I'm living in San Francisco Bay Area, CA
 
  - 5>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/JhoCbZRLh).
  - 5>    [Show: Growing Circle](https://editor.p5js.org/shuhangeng/full/JhoCbZRLh).
+
+
+ - 6>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/HXcCutgNV).
+ - 6>    [Show: Smaller Green Mess](https://editor.p5js.org/shuhangeng/full/HXcCutgNV).
+
+
+ - 7>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/IMx5yuiaQ).
+ - 7>    [Show: Big Green Mess](https://editor.p5js.org/shuhangeng/full/IMx5yuiaQ).
