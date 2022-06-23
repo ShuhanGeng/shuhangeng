@@ -63,3 +63,15 @@ I'm living in San Francisco Bay Area, CA
 
 - 8>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/xp-zD0Pkz).
 - 8>    [Show: 3D spining square](https://editor.p5js.org/shuhangeng/full/xp-zD0Pkz).
+
+
+- 8>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/lBlIdREEm).
+- 8>    [Show: Fireworks!](https://editor.p5js.org/shuhangeng/full/lBlIdREEm).
+
+
+- 9>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/Lx6KXXRj7).
+- 9>    [Show: Changing Colors](https://editor.p5js.org/shuhangeng/full/Lx6KXXRj7).
+
+- 9>    [Code:](https://editor.p5js.org/shuhangeng/sketches/eDV8dmpaP).
+- 9>    [Show: Changing Colors](https://editor.p5js.org/shuhangeng/full/eDV8dmpaP).
+
