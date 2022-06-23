@@ -59,3 +59,7 @@ I'm living in San Francisco Bay Area, CA
 
  - 7>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/IMx5yuiaQ).
  - 7>    [Show: Big Green Mess](https://editor.p5js.org/shuhangeng/full/IMx5yuiaQ).
+
+
+- 8>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/xp-zD0Pkz).
+- 8>    [Show: 3D spining square](https://editor.p5js.org/shuhangeng/full/xp-zD0Pkz).
