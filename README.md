@@ -75,3 +75,8 @@ I'm living in San Francisco Bay Area, CA
 - 10>    [Code:](https://editor.p5js.org/shuhangeng/sketches/eDV8dmpaP).
 - 10>    [Show: Among us Imposter](https://editor.p5js.org/shuhangeng/full/eDV8dmpaP).
 
+- 11>    [Code:](https://editor.p5js.org/shuhangeng/sketches/oEIDD2oqM).
+- 11>    [Show:Changing square colors](https://editor.p5js.org/shuhangeng/full/oEIDD2oqM).
+
+- 12>    [Code:](https://editor.p5js.org/shuhangeng/sketches/jqRYTlVC5).
+- 12>    [Show:Changing square colors](https://editor.p5js.org/shuhangeng/full/jqRYTlVC5).
