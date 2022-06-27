@@ -79,4 +79,4 @@ I'm living in San Francisco Bay Area, CA
 - 11>    [Show:Changing square colors](https://editor.p5js.org/shuhangeng/full/oEIDD2oqM).
 
 - 12>    [Code:](https://editor.p5js.org/shuhangeng/sketches/jqRYTlVC5).
-- 12>    [Show:Changing square colors](https://editor.p5js.org/shuhangeng/full/jqRYTlVC5).
+- 12>    [Show:Changing line and circle](https://editor.p5js.org/shuhangeng/full/jqRYTlVC5).
