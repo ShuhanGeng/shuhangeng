@@ -80,3 +80,13 @@ I'm living in San Francisco Bay Area, CA
 
 - 12>    [Code:](https://editor.p5js.org/shuhangeng/sketches/jqRYTlVC5).
 - 12>    [Show:Changing line and circle](https://editor.p5js.org/shuhangeng/full/jqRYTlVC5).
+
+- 13>    [Code:](https://editor.p5js.org/shuhangeng/sketches/qCiFWUecR).
+- 13>    [Show: Among us Black Crewmate](https://editor.p5js.org/shuhangeng/full/qCiFWUecR).
+
+- 14>    [Code:](https://editor.p5js.org/shuhangeng/sketches/jctSCJuM1).
+- 14>    [Show: Among us Imposter](https://editor.p5js.org/shuhangeng/full/jctSCJuM1).
+
+
+
+
