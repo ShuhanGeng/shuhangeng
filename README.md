@@ -107,8 +107,10 @@ I'm living in San Francisco Bay Area, CA
 - 24>    [Show: Among us Black Crewmate](https://editor.p5js.org/shuhangeng/full/qCiFWUecR).
 
 - 25>    [Code:](https://editor.p5js.org/shuhangeng/sketches/gRfiu_sSM).
-- 25>    [Show: Strange Thing](https://editor.p5js.org/shuhangeng/full/gRfiu_sSM).
+- 25>    [Show: Red Strange Thing](https://editor.p5js.org/shuhangeng/full/gRfiu_sSM).
 
+- 25>    [Code:](https://editor.p5js.org/shuhangeng/sketches/y9NbEwwm9).
+- 25>    [Show: Pie?](https://editor.p5js.org/shuhangeng/full/y9NbEwwm9.
 
 
 
