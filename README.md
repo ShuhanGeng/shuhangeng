@@ -112,5 +112,91 @@ I'm living in San Francisco Bay Area, CA
 - 25>    [Code:](https://editor.p5js.org/shuhangeng/sketches/y9NbEwwm9).
 - 25>    [Show: Pie?](https://editor.p5js.org/shuhangeng/full/y9NbEwwm9).
 
+- 26>    [Code:](https://editor.p5js.org/shuhangeng/sketches/oq8UA9BCa).
+- 26>    [Show: lol](https://editor.p5js.org/shuhangeng/full/oq8UA9BCa).
+
+- 27>    [Code:](https://editor.p5js.org/shuhangeng/sketches/rxOwcC0ph).
+- 27>    [Show: The Imposter Ball](https://editor.p5js.org/shuhangeng/full/rxOwcC0ph).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
