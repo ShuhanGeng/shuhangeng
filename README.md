@@ -30,7 +30,7 @@ I'm living in San Francisco Bay Area, CA
 - 💻    I'm Shuhan GENG.
 - 👯    I’m looking to collaborate on ...
 - 🌱    This is my <a href="https://scratch.mit.edu/users/shaepa/">Scratch Space</a> 
-- 🔭    I’m currently working on ...[P5 Program](./P5-program.md).
+- 🔭    I’m currently working on [P5 Program](./P5-program.md).
 - 📧    Email me at <a href="everestshg@gmail.com" target="_blank">everestshg@gmail.com</a>
  
 ## [P5 WorkSpace ](./P5-program.md) 🛠
