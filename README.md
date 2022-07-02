@@ -20,8 +20,8 @@ I'm living in San Francisco Bay Area, CA
 ## Below are the links to my fun places...
 
 
-- <a href="https://scratch.mit.edu/users/shaepa/">Scratch Space</a>
-- [Roblox](.)
+-   [Scratch Space](https://scratch.mit.edu/users/shaepa)
+-   [Roblox](.)
 
 
 ## More fun things...
