@@ -86,3 +86,6 @@
 
 - 27>    [Code:](https://editor.p5js.org/shuhangeng/sketches/rxOwcC0ph).
 - 27>    [Show: The Imposter Ball](https://editor.p5js.org/shuhangeng/full/rxOwcC0ph).
+
+- 27>    [Code:](https://editor.p5js.org/shuhangeng/sketches/xGS1zOPP7).
+- 27>    [Show: White Bubbbles!](https://editor.p5js.org/shuhangeng/full/xGS1zOPP7).
