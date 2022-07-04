@@ -21,19 +21,19 @@ I'm living in San Francisco Bay Area, CA
 
 
 -   [Scratch Space](https://scratch.mit.edu/users/shaepa)
--   [Roblox](.)
+-   [Roblox](https://www.roblox.com/users/3002961676/profile)
 
 
 ## More fun things...
 
-- 👯    I’m looking to collaborate on ... [Roblox](), [scratch](https://scratch.mit.edu/users/shaepa/) and VEXcode VR.
+- 👯    I’m looking to collaborate on ... [Roblox](https://www.roblox.com/users/3002961676/profile), [scratch](https://scratch.mit.edu/users/shaepa/) and VEXcode VR.
 - 🌱    I am learning the Python programming language now.  
-- 🤟    I’m currently playing on [scratch](https://scratch.mit.edu/users/shaepa/), [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/), and [Roblox]().
+- 🤟    I’m currently playing on [scratch](https://scratch.mit.edu/users/shaepa/), [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/), and [Roblox](https://www.roblox.com/users/3002961676/profile).
 - 🔭    I also like [p5.js programming](./P5-program.md), edits some codes on [p5*js Editor](https://editor.p5js.org/shuhangeng/sketches/).
 - 🥇    Fun fact: I am a white belt in judo and: 
     -   The Champion of female under 31Kg Golden State Open National Championships in Los Angels CA 2022.
     -   The fourth-place of female under 31Kg Junior Olympic National and International Championships in San Jose CA 2022.
-- 📧    Find me on [Roblox](), [scratch](https://scratch.mit.edu/users/shaepa/). 
+- 📧    Find me on [Roblox](https://www.roblox.com/users/3002961676/profile), [scratch](https://scratch.mit.edu/users/shaepa/). 
  
 ## Languages & Tools 🛠
 
