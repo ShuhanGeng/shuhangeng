@@ -30,7 +30,7 @@
 - 9>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/lBlIdREEm).
 - 9>    [Show: Fireworks!](https://editor.p5js.org/shuhangeng/full/lBlIdREEm).
 
--10>   [Code: ](https://editor.p5js.org/shuhangeng/sketches/Lx6KXXRj7).
+-10>    [Code: ](https://editor.p5js.org/shuhangeng/sketches/Lx6KXXRj7).
 -10>    [Show: Changing Colors](https://editor.p5js.org/shuhangeng/full/Lx6KXXRj7).
 
 - 11>    [Code:](https://editor.p5js.org/shuhangeng/sketches/oEIDD2oqM).
