@@ -89,3 +89,12 @@
 
 - 29>   [Code: White Bubbbles!](https://editor.p5js.org/shuhangeng/sketches/xGS1zOPP7).
 - 29>   [Show: White Bubbbles!](https://editor.p5js.org/shuhangeng/full/xGS1zOPP7).
+
+- 30>   [Code: Growing Rects](https://editor.p5js.org/shuhangeng/sketches/0y3wULj94).
+- 30>   [Show: Growing Rects](https://editor.p5js.org/shuhangeng/full/0y3wULj94).
+
+
+
+
+
+
