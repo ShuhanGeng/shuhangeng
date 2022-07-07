@@ -19,10 +19,9 @@ I'm living in San Francisco Bay Area, CA
 
 ## Below are the links to my fun places...
 
-
 -   [Scratch Space](https://scratch.mit.edu/users/shaepa)
 -   [Roblox](https://www.roblox.com/users/3002961676/profile)
-
+-   [P5 Playground](P5-program.md)
 
 ## More fun things...
 
