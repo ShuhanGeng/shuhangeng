@@ -92,9 +92,9 @@
 
 - 30>   [Code: Growing Rects](https://editor.p5js.org/shuhangeng/sketches/0y3wULj94).
 - 30>   [Show: Growing Rects](https://editor.p5js.org/shuhangeng/full/0y3wULj94).
-
-
-
+           
+- 31>   [Code: Click For Bubbles](https://editor.p5js.org/shuhangeng/sketches/5ekxEh1ub).
+- 31>   [Show: Click For Bubbles](https://editor.p5js.org/shuhangeng/full/5ekxEh1ub).
 
 
 
