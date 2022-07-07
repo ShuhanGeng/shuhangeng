@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 I'm living in San Francisco Bay Area, CA
 
 ## Below are the links to my fun places...
-
--   [Scratch Space](https://scratch.mit.edu/users/shaepa)
 -   [Roblox](https://www.roblox.com/users/3002961676/profile)
+-   [Scratch Space](https://scratch.mit.edu/users/shaepa)
+-   [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/)
 -   [P5.js Playground](P5-program.md)
 
 ## More fun things...
