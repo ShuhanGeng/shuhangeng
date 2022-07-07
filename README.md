@@ -40,6 +40,7 @@ I'm living in San Francisco Bay Area, CA
 <a href="https://scratch.mit.edu/users/shaepa/" target="_blank"><img src="https://user-images.githubusercontent.com/107777649/176965559-e384f769-5f88-4837-bf60-08a5a9f97942.png" height="60"/></a>
 <a href="https://vr.vex.com/" target="_blank"><img src="https://user-images.githubusercontent.com/107777649/176966861-cbd558e5-0910-4cb9-a45d-d6c613a73ea7.png" width="55" height="60"/></a>
 <a href="https://github.com/p5-designer/p5js-starter/blob/main/Shiffman-p5js-videos/README.md" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="65"/></a>
+<a href="https://docs.python.org/3.9/tutorial/index.html" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162653422-14f1dbea-ef4e-4176-b70f-d560a004aa42.png" width="60" height="60"/></a>
 
 
 
