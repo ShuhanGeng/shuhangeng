@@ -22,7 +22,7 @@ I'm living in San Francisco Bay Area, CA
 -   [Scratch Space](https://scratch.mit.edu/users/shaepa)
 -   [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/)
 -   [P5.js Playground](P5-program.md)
--   [Python Playground](.)
+-   [Python Playground](https://colab.research.google.com)
 
 ## More fun things...
 
