@@ -96,5 +96,6 @@
 - 31>   [Code: Click For Bubbles](https://editor.p5js.org/shuhangeng/sketches/5ekxEh1ub).
 - 31>   [Show: Click For Bubbles](https://editor.p5js.org/shuhangeng/full/5ekxEh1ub).
 
-
+- 32>   [Code: fum game](https://editor.p5js.org/shuhangeng/sketches/z209nfk5c).
+- 32>   [Show: fum game](https://editor.p5js.org/shuhangeng/full/z209nfk5c).
 
