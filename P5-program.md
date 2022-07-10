@@ -101,7 +101,7 @@
 
 - 33>   [Code: Flaming Ball](https://editor.p5js.org/shuhangeng/sketches/nuT0Usxgo).
 - 33>   [Show: Flaming Ball](https://editor.p5js.org/shuhangeng/full/nuT0Usxgo).
-<iframe src="https://editor.p5js.org/shuhangeng/full/nuT0Usxgo"></iframe>
+
 
 
 
