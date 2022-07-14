@@ -21,8 +21,8 @@ I'm living in San Francisco Bay Area, CA
 -   [Roblox](https://www.roblox.com/users/3002961676/profile)
 -   [Scratch Space](https://scratch.mit.edu/users/shaepa)
 -   [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/)
--   [P5.js Playground](P5-program.md)
--   [Python Playground](https://colab.research.google.com)
+-   [p5*js Editor](https://editor.p5js.org/shuhangeng/sketches)
+-   [Python colab](https://colab.research.google.com)
 
 ## More fun things...
 
