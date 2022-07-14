@@ -22,12 +22,12 @@ I'm living in San Francisco Bay Area, CA
 -   [Scratch Space](https://scratch.mit.edu/users/shaepa)
 -   [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/)
 -   [p5*js Editor](https://editor.p5js.org/shuhangeng/sketches)
--   [Python colab](https://colab.research.google.com)
+-   [Colab for python](https://colab.research.google.com)
 
 ## More fun things...
 
 - 👯    I’m looking to collaborate on ... [Roblox](https://www.roblox.com/users/3002961676/profile), [scratch](https://scratch.mit.edu/users/shaepa/) and [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/).
-- 🌱    I am learning the [Python programming](https://colab.research.google.com) language now.  
+- 🌱    I am learning the [Python programming](https://github.com/ShuhanCode/lavner-python) language on [Colab for python](https://colab.research.google.com) now.  
 - 🤟    I’m currently playing on [scratch](https://scratch.mit.edu/users/shaepa/), [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/), and [Roblox](https://www.roblox.com/users/3002961676/profile).
 - 🔭    I also like [p5.js programming](./P5-program.md), edits some codes on [p5*js Editor](https://editor.p5js.org/shuhangeng/sketches/).
 - 🥇    Fun fact: I am a white belt in judo and: 
