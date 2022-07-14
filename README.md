@@ -33,7 +33,7 @@ I'm living in San Francisco Bay Area, CA
 - 🥇    Fun fact: I am a white belt in judo and: 
     -   The Champion of female under 31Kg Golden State Open National Championships in Los Angels CA 2022.
     -   The fourth-place of female under 31Kg Junior Olympic National and International Championships in San Jose CA 2022.
-- 📧    Find me on [Roblox](https://www.roblox.com/users/3002961676/profile), [scratch](https://scratch.mit.edu/users/shaepa/). 
+- 📧    Find me on [Roblox](https://www.roblox.com/users/3002961676/profile), [Scratch](https://scratch.mit.edu/users/shaepa/). 
  
 ## Languages & Tools 🛠
 
