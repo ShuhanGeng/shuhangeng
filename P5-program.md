@@ -123,7 +123,8 @@
 - 37>   [Code: Pie!](https://editor.p5js.org/shuhangeng/sketches/1bR7wElpW).
 - 37>   [Show: Pie!](https://editor.p5js.org/shuhangeng/full/1bR7wElpW).
 
-
+- 38>   [Code: 2D Minecraft Without a player](https://editor.p5js.org/shuhangeng/sketches/PNp3o-0lx).
+- 38>   [Show: 2D Minecraft Without a player](https://editor.p5js.org/shuhangeng/full/PNp3o-0lx).
 
 
 
