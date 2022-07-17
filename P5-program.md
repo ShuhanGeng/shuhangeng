@@ -126,8 +126,9 @@
 - 38>   [Code: 2D Minecraft Without a player](https://editor.p5js.org/shuhangeng/sketches/PNp3o-0lx).
 - 38>   [Show: 2D Minecraft Without a player](https://editor.p5js.org/shuhangeng/full/PNp3o-0lx).
 
-- 39>   [Code: pizza](https://editor.p5js.org/shuhangeng/sketches/xW9bmJbNy).
-- 39>   [Show: pizza](https://editor.p5js.org/shuhangeng/full/xW9bmJbNy).
+- 38>   [Code: Art](https://editor.p5js.org/shuhangeng/sketches/oGzGUvgSR).
+- 38>   [Show: Art](https://editor.p5js.org/shuhangeng/full/oGzGUvgSR).
+
 
 
 
