@@ -39,9 +39,9 @@ I'm living in San Francisco Bay Area, CA
 
 <a href="https://scratch.mit.edu/users/shaepa/" target="_blank"><img src="https://user-images.githubusercontent.com/107777649/176965559-e384f769-5f88-4837-bf60-08a5a9f97942.png" height="60"/></a>
 <a href="https://vr.vex.com/" target="_blank"><img src="https://user-images.githubusercontent.com/107777649/176966861-cbd558e5-0910-4cb9-a45d-d6c613a73ea7.png" width="55" height="60"/></a>
-<a href="https://github.com/ShuhanCode/javascript" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162657213-0c44307c-d4df-4220-9d3c-46e00380c451.png" height="65"/></a>
+<a href="https://github.com/ShuhanCode/art-javascript" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/162657213-0c44307c-d4df-4220-9d3c-46e00380c451.png" height="65"/></a>
 <a href="https://github.com/p5-designer/p5js-starter" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/167035355-465121f2-e6f9-4452-9661-3e528c5fae7f.png" height="62"/></a>
-<a href="https://github.com/ShuhanCode/Lavner-Python" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/177693012-e2558a04-2e0d-46d9-a7c6-85922b8d1394.png" height="60"/></a>
+<a href="https://github.com/ShuhanCode/game-python" target="_blank"><img src="https://user-images.githubusercontent.com/7886233/177693012-e2558a04-2e0d-46d9-a7c6-85922b8d1394.png" height="60"/></a>
 
 
 
