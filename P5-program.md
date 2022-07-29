@@ -153,6 +153,8 @@
 - 47>   [Code: Click For Water](https://editor.p5js.org/shuhangeng/sketches/feX7hQ8aW).
 - 47>   [Show: Click For Water](https://editor.p5js.org/shuhangeng/full/feX7hQ8aW).
 
+- 48>   [Code: Little Turtle](https://editor.p5js.org/shuhangeng/sketches/yIk4cn9nQ).
+- 48>   [Show: Little Turtle](https://editor.p5js.org/shuhangeng/full/yIk4cn9nQ).
 
 
 
