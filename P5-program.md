@@ -156,7 +156,8 @@
 - 48>   [Code: Little Turtle](https://editor.p5js.org/shuhangeng/sketches/yIk4cn9nQ).
 - 48>   [Show: Little Turtle](https://editor.p5js.org/shuhangeng/full/yIk4cn9nQ).
 
-
+- 49>   [Code: Campfire](https://editor.p5js.org/shuhangeng/sketches/Mo2naDDRQ).
+- 49>   [Show: Campfire](https://editor.p5js.org/shuhangeng/full/Mo2naDDRQ).
 
 
 
