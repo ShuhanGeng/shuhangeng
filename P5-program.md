@@ -162,6 +162,8 @@
 - 50>   [Code: Rain Storm](https://editor.p5js.org/shuhangeng/sketches/W_l5eZxW4).
 - 50>   [Show: Rain Storm](https://editor.p5js.org/shuhangeng/full/W_l5eZxW4).
 
+- 51>   [Code: Rain](https://editor.p5js.org/shuhangeng/sketches/au2zNOwRF).
+- 51>   [Show: Rain](https://editor.p5js.org/shuhangeng/full/au2zNOwRF).
 
 
 
