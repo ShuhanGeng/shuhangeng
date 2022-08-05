@@ -168,6 +168,8 @@
 - 52>   [Code: Google Search](https://editor.p5js.org/shuhangeng/sketches/EwoH4obYk).
 - 52>   [Show: Google Search](https://editor.p5js.org/shuhangeng/full/EwoH4obYk).
 
+- 53>   [Code: Google Bubble](https://editor.p5js.org/shuhangeng/sketches/LPJRtYunl).
+- 53>   [Show: Google Bubble](https://editor.p5js.org/shuhangeng/full/LPJRtYunl).
 
 
 
