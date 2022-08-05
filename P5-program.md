@@ -171,7 +171,8 @@
 - 53>   [Code: Google Bubble](https://editor.p5js.org/shuhangeng/sketches/LPJRtYunl).
 - 53>   [Show: Google Bubble](https://editor.p5js.org/shuhangeng/full/LPJRtYunl).
 
-
+- 54>   [Code: Make a line](https://editor.p5js.org/codingtrain/sketches/tFyBf_gX1).
+- 54>   [Show: Make a line](https://editor.p5js.org/codingtrain/full/tFyBf_gX1).
 
 
 
