@@ -177,7 +177,8 @@
 - 55>   [Code: Rainbow Line](https://editor.p5js.org/shuhangeng/sketches/qp7ERFFRe).
 - 55>   [Show: Rainbow Line](https://editor.p5js.org/shuhangeng/full/qp7ERFFRe).
 
-
+- 56>   [Code: Soft Polygon](https://editor.p5js.org/shuhangeng/sketches/iWqVwxY9r).
+- 56>   [Show: Soft Polygon](https://editor.p5js.org/shuhangeng/full/iWqVwxY9r).
 
 
 
