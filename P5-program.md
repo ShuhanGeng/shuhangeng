@@ -174,7 +174,8 @@
 - 54>   [Code: Make a line](https://editor.p5js.org/codingtrain/sketches/tFyBf_gX1).
 - 54>   [Show: Make a line](https://editor.p5js.org/codingtrain/full/tFyBf_gX1).
 
-
+- 55>   [Code: Rainbow Line](https://editor.p5js.org/shuhangeng/sketches/qp7ERFFRe).
+- 55>   [Show: Rainbow Line](https://editor.p5js.org/shuhangeng/full/qp7ERFFRe).
 
 
 
