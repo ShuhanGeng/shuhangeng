@@ -108,8 +108,8 @@
 - 32>   [Code: Click For Bubbles](https://editor.p5js.org/shuhangeng/sketches/5ekxEh1ub).
 - 32>   [Show: Click For Bubbles](https://editor.p5js.org/shuhangeng/full/5ekxEh1ub).
 
-- 33>   [Code: fum game](https://editor.p5js.org/shuhangeng/sketches/z209nfk5c).
-- 33>   [Show: fum game](https://editor.p5js.org/shuhangeng/full/z209nfk5c).
+- 33>   [Code: Hye](https://editor.p5js.org/shuhangeng/sketches/z209nfk5c).
+- 33>   [Show: Hye](https://editor.p5js.org/shuhangeng/full/z209nfk5c).
 
 - 34>   [Code: Flaming Ball](https://editor.p5js.org/shuhangeng/sketches/nuT0Usxgo).
 - 34>   [Show: Flaming Ball](https://editor.p5js.org/shuhangeng/full/nuT0Usxgo).
