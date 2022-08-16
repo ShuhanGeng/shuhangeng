@@ -210,7 +210,8 @@
 - 66>   [Code: Chain](https://editor.p5js.org/shuhangeng/sketches/0gCqRpbr8).
 - 66>   [Show: Chain](https://editor.p5js.org/shuhangeng/full/0gCqRpbr8).
 
-
+- 67>   [Code: Magic 8 Ball](https://editor.p5js.org/shuhangeng/sketches/fvymPm0YY).
+- 67>   [Show: Magic 8 Ball](https://editor.p5js.org/shuhangeng/full/fvymPm0YY).
 
 
 
