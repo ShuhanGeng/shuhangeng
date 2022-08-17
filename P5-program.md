@@ -178,7 +178,7 @@
 - 55>   [Show: Rain 3](https://editor.p5js.org/shuhangeng/full/KyPF1u85R).
 
 - 56>   [Code: Google Search](https://editor.p5js.org/shuhangeng/sketches/EwoH4obYk).
-- 56>   [Show: Google Search](https://editor.p5js.org/shuhangeng/full/EwoH4obYk).6
+- 56>   [Show: Google Search](https://editor.p5js.org/shuhangeng/full/EwoH4obYk).
 
 - 57>   [Code: Make a line](https://editor.p5js.org/codingtrain/sketches/tFyBf_gX1).
 - 57>   [Show: Make a line](https://editor.p5js.org/codingtrain/full/tFyBf_gX1).
