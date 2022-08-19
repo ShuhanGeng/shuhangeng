@@ -213,6 +213,9 @@
 - 67>   [Code: Pikachu](https://editor.p5js.org/shuhangeng/sketches/Op_IIscom).
 - 67>   [Show: Pikachu](https://editor.p5js.org/shuhangeng/full/Op_IIscom).
 
+- 68>   [Code: Clock](https://editor.p5js.org/shuhangeng/sketches/cJezz2EeT).
+- 68>   [Show: Clock](https://editor.p5js.org/shuhangeng/full/cJezz2EeT).
+
 
 
 
