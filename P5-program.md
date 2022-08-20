@@ -216,7 +216,8 @@
 - 68>   [Code: Clock](https://editor.p5js.org/shuhangeng/sketches/cJezz2EeT).
 - 68>   [Show: Clock](https://editor.p5js.org/shuhangeng/full/cJezz2EeT).
 
-
+- 69>   [Code: Clock 2](https://editor.p5js.org/shuhangeng/sketches/MZN9pS0Wn).
+- 69>   [Show: Clock 2](https://editor.p5js.org/shuhangeng/full/MZN9pS0Wn).
 
 
 
