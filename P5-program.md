@@ -222,6 +222,8 @@
 - 70>   [Code: Clock 3](https://editor.p5js.org/shuhangeng/sketches/jg20qV4Uf).
 - 70>   [Show: Clock 3](https://editor.p5js.org/shuhangeng/full/jg20qV4Uf).
 
+- 71>   [Code: Blue Gold](https://editor.p5js.org/shuhangeng/sketches/CDbk2Q904).
+- 71>   [Show: Blue Gold](https://editor.p5js.org/shuhangeng/full/CDbk2Q904).
 
 
 
