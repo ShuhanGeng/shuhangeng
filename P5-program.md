@@ -249,6 +249,9 @@
 - 79>   [Code: Riddles](https://editor.p5js.org/shuhangeng/sketches/blGr6CRPG).
 - 79>   [Show: Riddles](https://editor.p5js.org/shuhangeng/full/blGr6CRPG).
 
+- 80>   [Code: Platformer](https://editor.p5js.org/shuhangeng/sketches/2LgcZLvRd).
+- 80>   [Show: Platformer](https://editor.p5js.org/shuhangeng/full/2LgcZLvRd).
+
 
 
 
