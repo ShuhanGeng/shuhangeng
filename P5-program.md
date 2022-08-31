@@ -246,7 +246,8 @@
 - 78>   [Code: Growing Circles](https://editor.p5js.org/shuhangeng/sketches/ja7fXCOuu).
 - 78>   [Show: Growing Circles](https://editor.p5js.org/shuhangeng/full/ja7fXCOuu).
 
-
+- 79>   [Code: Riddles](https://editor.p5js.org/shuhangeng/sketches/blGr6CRPG).
+- 79>   [Show: Riddles](https://editor.p5js.org/shuhangeng/full/blGr6CRPG).
 
 
 
