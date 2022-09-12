@@ -267,7 +267,8 @@
 - 85>   [Code: Countdown For 30 Mins](https://editor.p5js.org/shuhangeng/sketches/GdkjrTrFP).
 - 85>   [Show: Countdown For 30 Mins](https://editor.p5js.org/shuhangeng/full/GdkjrTrFP).
 
-
+- 86>   [Code: timer for 30 mins 2](https://editor.p5js.org/shuhangeng/sketches/Fb2CKYui7).
+- 86>   [Show: timer for 30 mins 2](https://editor.p5js.org/shuhangeng/full/Fb2CKYui7).
 
 
 
