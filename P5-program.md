@@ -270,6 +270,9 @@
 - 86>   [Code: timer for 30 mins 2](https://editor.p5js.org/shuhangeng/sketches/Fb2CKYui7).
 - 86>   [Show: timer for 30 mins 2](https://editor.p5js.org/shuhangeng/full/Fb2CKYui7).
 
+- 87>   [Code: Pixel art](https://editor.p5js.org/shuhangeng/sketches/rY-Y89aU2).
+- 87>   [Show: Pixel art](https://editor.p5js.org/shuhangeng/full/rY-Y89aU2).
+
 
 
 
