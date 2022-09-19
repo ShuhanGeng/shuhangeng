@@ -30,9 +30,10 @@ I'm living in San Francisco Bay Area, CA
 - 🌱    I am learning the [Python programming](https://github.com/ShuhanCode/lavner-python) language on [Colab for python](https://colab.research.google.com) now.  
 - 🤟    I’m currently playing on [Scratch](https://scratch.mit.edu/users/shaepa/), [VEXcode VR](https://github.com/ShuhanCode/LavnerEducation/), and [Roblox](https://www.roblox.com/users/3002961676/profile).
 - 🔭    I also like [p5.js programming](./P5-program.md), edits some codes on [p5*js Editor](https://editor.p5js.org/shuhangeng/sketches/).
-- 🥇    Fun fact: I am a white belt in judo and: 
-    -   The Champion of female under 31Kg Golden State Open National Championships in Los Angels CA 2022.
+- 🥇    Fun fact: I am a white belt in judo and:     
+    -   The third-place of female under 32Kg East Bay Invitational Judo Tournament in El Cerrito CA 2022.
     -   The fourth-place of female under 31Kg Junior Olympic National and International Championships in San Jose CA 2022.
+    -   The Champion of female under 31Kg Golden State Open National Championships in Los Angels CA 2022.
 - 📧    Find me on [Roblox](https://www.roblox.com/users/3002961676/profile), or [Scratch](https://scratch.mit.edu/users/shaepa/). 
  
 ## Languages & Tools 🛠
