@@ -273,6 +273,10 @@
 - 87>   [Code: Pixel art](https://editor.p5js.org/shuhangeng/sketches/rY-Y89aU2).
 - 87>   [Show: Pixel art](https://editor.p5js.org/shuhangeng/full/rY-Y89aU2).
 
+- 88>   [Code: Calculator](https://editor.p5js.org/shuhangeng/sketches/IbNtTebbt).
+- 88>   [Show: Calculator](https://editor.p5js.org/shuhangeng/full/IbNtTebbt).
+
+
 
 
 
