@@ -276,6 +276,8 @@
 - 88>   [Code: Calculator](https://editor.p5js.org/shuhangeng/sketches/IbNtTebbt).
 - 88>   [Show: Calculator](https://editor.p5js.org/shuhangeng/full/IbNtTebbt).
 
+- 89>   [Code: Clicker Game](https://editor.p5js.org/shuhangeng/full/y_g_-pnYC).
+- 89>   [Show: Clicker Game](https://editor.p5js.org/shuhangeng/sketches/y_g_-pnYC).
 
 
 
