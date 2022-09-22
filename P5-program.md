@@ -279,9 +279,11 @@
 - 89>   [Code: Clicker Game](https://editor.p5js.org/shuhangeng/full/y_g_-pnYC).
 - 89>   [Show: Clicker Game](https://editor.p5js.org/shuhangeng/sketches/y_g_-pnYC).
 
-- 90>   [Code: Clicker Game](https://editor.p5js.org/shuhangeng/sketches/fE3q8csdj).
-- 90>   [Show: Clicker Game](https://editor.p5js.org/shuhangeng/full/fE3q8csdj).
+- 90>   [Code: Slow confetti](https://editor.p5js.org/shuhangeng/sketches/fE3q8csdj).
+- 90>   [Show: Slow confetti](https://editor.p5js.org/shuhangeng/full/fE3q8csdj).
 
+- 91>   [Code: Fast Confetti](https://editor.p5js.org/shuhangeng/sketches/xm_4PDt_b).
+- 91>   [Show: Fast Confetti](https://editor.p5js.org/shuhangeng/full/xm_4PDt_b).
 
 
 
