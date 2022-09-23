@@ -286,6 +286,9 @@
 - 91>   [Show: Fast Confetti](https://editor.p5js.org/shuhangeng/full/xm_4PDt_b).
 
 
+- 92>   [Code: Confetti](https://editor.p5js.org/shuhangeng/sketches/Lg8V_2PtPw).
+- 92>   [Show: Confetti](https://editor.p5js.org/shuhangeng/full/Lg8V_2PtPw).
+
 
 
 
