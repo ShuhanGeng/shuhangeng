@@ -298,6 +298,8 @@
 - 95>   [Code: Clicker Click](https://editor.p5js.org/shuhangeng/sketches/ax7HymEgj).
 - 95>   [Show: Clicker Click](https://editor.p5js.org/shuhangeng/full/ax7HymEgj).
 
+- 96>   [Code: Painting](https://editor.p5js.org/shuhangeng/sketches/Wv-6wHvRI).
+- 96>   [Show: Painting](https://editor.p5js.org/shuhangeng/full/Wv-6wHvRI).
 
 
 
