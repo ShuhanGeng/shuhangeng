@@ -301,7 +301,8 @@
 - 96>   [Code: Painting](https://editor.p5js.org/shuhangeng/sketches/Wv-6wHvRI).
 - 96>   [Show: Painting](https://editor.p5js.org/shuhangeng/full/Wv-6wHvRI).
 
-
+- 97>   [Code: Catch the rain](https://editor.p5js.org/shuhangeng/sketches/uqKSG0sSV).
+- 97>   [Show: Catch the rain](https://editor.p5js.org/shuhangeng/full/uqKSG0sSV).
 
 
 
