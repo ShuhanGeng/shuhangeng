@@ -304,6 +304,9 @@
 - 97>   [Code: Catch the rain](https://editor.p5js.org/shuhangeng/sketches/uqKSG0sSV).
 - 97>   [Show: Catch the rain](https://editor.p5js.org/shuhangeng/full/uqKSG0sSV).
 
+- 98>   [Code: Black Paint Brush](https://editor.p5js.org/shuhangeng/sketches/DMlYiBifD).
+- 98>   [Show: Black Paint Brush](https://editor.p5js.org/shuhangeng/full/DMlYiBifD).
+
 
 
 
