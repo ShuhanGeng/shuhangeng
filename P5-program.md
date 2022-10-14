@@ -316,6 +316,71 @@
 - 101>   [Code: Water wh](https://editor.p5js.org/shuhangeng/sketches/nyX5_T0e1).
 - 101>   [Show: Water wh](https://editor.p5js.org/shuhangeng/full/nyX5_T0e1).
 
+- 102>   [Code: Growing Flowers time](https://editor.p5js.org/shuhangeng/sketches/FmSTTnvzz).
+- 102>   [Show: Growing Flowers time](https://editor.p5js.org/shuhangeng/full/FmSTTnvzz).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
