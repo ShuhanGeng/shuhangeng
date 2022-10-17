@@ -322,6 +322,10 @@
 - 103>   [Code: Drawing okay](https://editor.p5js.org/shuhangeng/sketches/DBUyo-4CV).
 - 103>   [Show: Drawing okay](https://editor.p5js.org/shuhangeng/full/DBUyo-4CV).
 
+- 104>   [Code: Wacky](https://editor.p5js.org/shuhangeng/sketches/xEjQREuQE).
+- 104>   [Show: Wacky](https://editor.p5js.org/shuhangeng/full/xEjQREuQE).
+
+
 
 
 
