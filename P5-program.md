@@ -334,6 +334,9 @@
 - 107>   [Code: quizzzzzzzzzzz](https://editor.p5js.org/shuhangeng/sketches/Zm2yxEONs). 
 - 107>   [Show: quizzzzzzzzzzz](https://editor.p5js.org/shuhangeng/full/Zm2yxEONs).
 
+- 108>   [Code: hard game](https://editor.p5js.org/shuhangeng/sketches/K7PzgAPnt). 
+- 108>   [Show: hard game](https://editor.p5js.org/shuhangeng/full/K7PzgAPnt).
+
 
 
 
