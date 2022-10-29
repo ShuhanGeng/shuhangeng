@@ -346,6 +346,8 @@
 - 111>   [Code: Rainbow Paint](https://editor.p5js.org/shuhangeng/sketches/t0CC8fgTL).
 - 111>   [Show: Rainbow Paint](https://editor.p5js.org/shuhangeng/full/t0CC8fgTL).
 
+- 112>   [Code: Type](https://editor.p5js.org/shuhangeng/sketches/6WZqwQu6S).
+- 112>   [Show: Type](https://editor.p5js.org/shuhangeng/full/6WZqwQu6S).
 
 
 
