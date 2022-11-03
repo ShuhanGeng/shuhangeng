@@ -349,6 +349,8 @@
 - 112>   [Code: Type](https://editor.p5js.org/shuhangeng/sketches/6WZqwQu6S).
 - 112>   [Show: Type](https://editor.p5js.org/shuhangeng/full/6WZqwQu6S).
 
+- 113>   [Code: bad brick breaker](https://editor.p5js.org/shuhangeng/sketches/mlV9ta3k4).
+- 113>   [Show: bad brick breaker](https://editor.p5js.org/shuhangeng/full/mlV9ta3k4).
 
 
 
