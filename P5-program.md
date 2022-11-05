@@ -352,49 +352,8 @@
 - 113>   [Code: bad brick breaker](https://editor.p5js.org/shuhangeng/sketches/mlV9ta3k4).
 - 113>   [Show: bad brick breaker](https://editor.p5js.org/shuhangeng/full/mlV9ta3k4).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- 114>   [Code: Brick](https://editor.p5js.org/shuhangeng/sketches/Q7fKhtTpQ).
+- 114>   [Show: Brick](https://editor.p5js.org/shuhangeng/full/Q7fKhtTpQ).
 
 
 
