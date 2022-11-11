@@ -361,6 +361,10 @@
 - 116>   [Code: Safety Code](https://editor.p5js.org/shuhangeng/sketches/DZPNkOopp).
 - 116>   [Show: Safety Code](https://editor.p5js.org/shuhangeng/full/DZPNkOopp).
 
+- 117>   [Code: Say the password](https://editor.p5js.org/shuhangeng/sketches/stxGYXevN).
+- 117>   [Show: Say the password](https://editor.p5js.org/shuhangeng/full/stxGYXevN).
+
+
 
 
 
