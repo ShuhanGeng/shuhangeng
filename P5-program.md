@@ -364,6 +364,8 @@
 - 117>   [Code: Say the password](https://editor.p5js.org/shuhangeng/sketches/stxGYXevN).
 - 117>   [Show: Say the password](https://editor.p5js.org/shuhangeng/full/stxGYXevN).
 
+- 118>   [Code: Letter Colors Thing](https://editor.p5js.org/shuhangeng/sketches/DAKVIUmoi).
+- 118>   [Show: Letter Colors Thing](https://editor.p5js.org/shuhangeng/full/DAKVIUmoi).
 
 
 
