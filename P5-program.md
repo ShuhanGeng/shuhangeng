@@ -367,6 +367,8 @@
 - 118>   [Code: Letter Colors Thing](https://editor.p5js.org/shuhangeng/sketches/DAKVIUmoi).
 - 118>   [Show: Letter Colors Thing](https://editor.p5js.org/shuhangeng/full/DAKVIUmoi).
 
+- 119>   [Code: Museum of laughter](https://editor.p5js.org/shuhangeng/sketches/POYSHBzjZ).
+- 119>   [Show: Museum of laughter](https://editor.p5js.org/shuhangeng/full/POYSHBzjZ).
 
 
 
