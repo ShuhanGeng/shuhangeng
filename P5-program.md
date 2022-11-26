@@ -391,6 +391,8 @@
 - 126>   [Code: Doggy Game](https://editor.p5js.org/shuhangeng/sketches/XrfrEDKvP).
 - 126>   [Show: Doggy Game](https://editor.p5js.org/shuhangeng/full/XrfrEDKvP).
 
+- 127>   [Code: time bar](https://editor.p5js.org/shuhangeng/sketches/KtqnK0yYg).
+- 127>   [Show: time bar](https://editor.p5js.org/shuhangeng/full/KtqnK0yYg).
 
 
 
