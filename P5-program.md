@@ -435,6 +435,8 @@
 - 140>   [Code: gAmE oF lIfE](https://editor.p5js.org/shuhangeng/sketches/n8Tzf3SSY).
 - 140>   [Show: gAmE oF lIfE](https://editor.p5js.org/shuhangeng/full/n8Tzf3SSY).
 
+- 141>   [Code: gam](https://editor.p5js.org/shuhangeng/sketches/evqJXUObb).
+- 141>   [Show: gam](https://editor.p5js.org/shuhangeng/full/evqJXUObb).
 
 
 
