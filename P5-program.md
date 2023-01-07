@@ -438,7 +438,8 @@
 - 141>   [Code: gam](https://editor.p5js.org/shuhangeng/sketches/evqJXUObb).
 - 141>   [Show: gam](https://editor.p5js.org/shuhangeng/full/evqJXUObb).
 
-
+- 142>   [Code: gk](https://editor.p5js.org/shuhangeng/sketches/8tN0BBTC9).
+- 142>   [Show: gk](https://editor.p5js.org/shuhangeng/full/8tN0BBTC9).
 
 
 
