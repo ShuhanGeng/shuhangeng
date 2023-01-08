@@ -441,7 +441,8 @@
 - 142>   [Code: gk](https://editor.p5js.org/shuhangeng/sketches/8tN0BBTC9).
 - 142>   [Show: gk](https://editor.p5js.org/shuhangeng/full/8tN0BBTC9).
 
-
+- 142>   [Code: Pandea](https://editor.p5js.org/shuhangeng/sketches/IM62giW1d).
+- 143>   [Show: Pandea](https://editor.p5js.org/shuhangeng/full/IM62giW1d).3
 
 
 
