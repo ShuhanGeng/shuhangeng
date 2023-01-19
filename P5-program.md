@@ -441,9 +441,11 @@
 - 142>   [Code: gk](https://editor.p5js.org/shuhangeng/sketches/8tN0BBTC9).
 - 142>   [Show: gk](https://editor.p5js.org/shuhangeng/full/8tN0BBTC9).
 
-- 142>   [Code: Pandea](https://editor.p5js.org/shuhangeng/sketches/IM62giW1d).
-- 143>   [Show: Pandea](https://editor.p5js.org/shuhangeng/full/IM62giW1d).3
+- 143>   [Code: Pandea](https://editor.p5js.org/shuhangeng/sketches/IM62giW1d).
+- 143>   [Show: Pandea](https://editor.p5js.org/shuhangeng/full/IM62giW1d).
 
+- 144>   [Code: maze gen](https://editor.p5js.org/shuhangeng/sketches/06_VOv-Uj).
+- 144>   [Show: maze gen](https://editor.p5js.org/shuhangeng/full/06_VOv-Uj).
 
 
 
